@@ -5,7 +5,7 @@ I design and develop reliable embedded firmware for real‑time systems using **
 
 ---
 
-## 🔧 Technical Skills 
+## Technical Skills 
 
 ### **Programming** 
 - C, Modern C++ (23)
@@ -43,7 +43,7 @@ I design and develop reliable embedded firmware for real‑time systems using **
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 ### **STM32H7 Bare‑Metal Peripheral Drivers**
 A collection of hardware‑accurate drivers for STM32H7 (Cortex‑M4/M7), implemented directly from the reference manual.  
 Focus: deterministic behavior, clean architecture, and educational clarity.
