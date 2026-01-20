@@ -1,4 +1,4 @@
-# Hi, I'm Gohith 👋  
+# Hello, I'm Gohith 🙏
 **Embedded Firmware Developer | ARM Cortex-M | C/C++ | Real‑Time Systems  | Embedded Linux**
 
 I design and develop reliable embedded firmware for real‑time systems using **Embedded C, Modern C++**, and **ARM Cortex‑M microcontrollers**. My experience spans battery management systems, automotive sensor drivers, IoT devices, and embedded software architecture. I focus on deterministic behavior, clean design, and hardware‑accurate implementation.
