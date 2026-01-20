@@ -5,7 +5,7 @@ I design and develop reliable embedded firmware for real‑time systems using **
 
 ---
 
-## Technical Skills 
+## 🛠️ Technical Skills 
 
 ### **Programming** 
 - C, Modern C++ (23)
@@ -43,13 +43,13 @@ I design and develop reliable embedded firmware for real‑time systems using **
 
 ---
 
-## Selected Projects
+## Noticable Projects
 ### **STM32H7 Bare‑Metal Peripheral Drivers**
 A collection of hardware‑accurate drivers for STM32H7 (Cortex‑M4/M7), implemented directly from the reference manual.  
 Focus: deterministic behavior, clean architecture, and educational clarity.
 
 ---
-## Interests 
+## 🤖  Interests 
 - Bare‑metal embedded programming
 - Modern C++ in constrained systems
 - Real‑time architectures with ROS-2
@@ -60,7 +60,7 @@ Focus: deterministic behavior, clean architecture, and educational clarity.
 
 ---
 
-## Engineering Philosophy
+## 🛡️ Engineering Philosophy
 - Reference‑manual‑first development  
 - Deterministic, predictable firmware  
 - Clean, maintainable architecture  
@@ -69,7 +69,7 @@ Focus: deterministic behavior, clean architecture, and educational clarity.
 
 ---
 
-## Currently Exploring
+## 🛰️ Currently Exploring
 - Compile‑time configuration in C++  
 - Memory‑safe embedded C++ patterns  
 - RTOS design principles  
