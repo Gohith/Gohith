@@ -80,3 +80,7 @@ Focus: deterministic behavior, clean architecture, and educational clarity.
 ## Contact
 - **LinkedIn:** www.linkedin.com/in/gohith  
 - **Email:** gohithkanchinadham3@gmail.com  
+
+## Visits
+- ![Visitor Count](https://profile-counter.glitch.me/gohith/count.svg)
+
