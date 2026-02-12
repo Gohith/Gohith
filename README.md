@@ -82,5 +82,5 @@ Focus: deterministic behavior, clean architecture, and educational clarity.
 - **Email:** gohithkanchinadham3@gmail.com  
 
 ## Visits
-- ![Visitor Count](https://profile-counter.glitch.me/gohith/count.svg)
+- ![Visitor Count](https://profile-counter.glitch.me/Gohith Kanchinatham/count.svg)
 
